@@ -1,10 +1,7 @@
 Copy the contents of the 'code' folder to your working directory.
 
-Open terminal and login into tesla.cs.iupui.edu
 
-Enter command : clisp
-
-copy and paste the commands given below according to the instructions.
+copy and paste the commands given below according to the instructions on the command prompt or terminal
 
 1) Steps to run the program for finding the length of the list:
 
@@ -65,4 +62,4 @@ copy and paste the commands given below according to the instructions.
 
 
 
-	(deleteL '(1 2 3 4) '(1 2))
+	(deleteL '(1 2 3 4) '(1 2))
